@@ -1,4 +1,4 @@
-<img src="https://demo.nftverse.org/vectors/logo.svg" width="100" />
+<img src="https://static.wixstatic.com/media/60e051_0aebce6fc8d04379b53d98f0761190f0~mv2.png/v1/crop/x_582,y_467,w_723,h_432/fill/w_178,h_106,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vecteezy_nv-or-vn-letter-logo-unique-attractive-creative-modern_-removebg.png" width="100" />
 
 # NFTverse
 
