@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1420459403170312193/1651571035/1500x500" width="100" />
+<img src="https://drive.google.com/file/d/1lRmzIRLWfnv4ei5N_iAniRbg1EhXsSbH/view?usp=sharing" width="100" />
 
 # NFTverse
 
